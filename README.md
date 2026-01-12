@@ -81,6 +81,12 @@ gcloud pubsub subscriptions pull mySubscription --limit=3
 └─────────────┘                └─────────────┘                   └─────────────────┘
 ```
 
+<img width="1449" height="718" alt="Screenshot 2026-01-12 181316" src="https://github.com/user-attachments/assets/cd033ffd-682a-4ea2-8038-3c59ab221d82" />
+<img width="1442" height="739" alt="Screenshot 2026-01-12 181126" src="https://github.com/user-attachments/assets/72b61f71-6d7d-4b36-a9b7-a0a3ca9604a1" />
+<img width="1461" height="701" alt="Screenshot 2026-01-12 181042" src="https://github.com/user-attachments/assets/94149bf6-8a04-4070-89fd-01210048c70b" /<img width="1453" height="724" alt="Screenshot 2026-01-12 181012" src="https://github.com/user-attachments/assets/4c91a22a-1a18-47ab-af3a-a2ce2d996138" />
+>
+<img width="1421" height="680" alt="Screenshot 2026-01-12 180703" src="https://github.com/user-attachments/assets/edfacbf6-8ce1-45b8-bd6a-bd7e68bf0136" />
+
 ## Key Learning Points
 
 ### Topic Fundamentals
